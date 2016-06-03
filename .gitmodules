@@ -1,0 +1,3 @@
+[submodule "dcms"]
+	path = dcms
+	url = git@github.com:fatbird/dcms.git
