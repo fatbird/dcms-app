@@ -97,6 +97,7 @@ DCMS_NODES = {
     2: {'host': 'http://localhost:8001', },
     3: {'host': 'http://localhost:8002', },
 }
+
 DCMS_TYPES = [
     'content',
     'log_entries',
